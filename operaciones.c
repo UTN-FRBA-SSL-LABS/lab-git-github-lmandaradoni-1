@@ -15,13 +15,17 @@ int restar(int a, int b) {
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 
 int multiplicar(int a, int b) {
+
     // Con el * la variable 'a' va a multiplicarse con 'b'
     return a* b;
+
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 
 int esPar(int n) {
+
     
     return (n % 2) == 0; /* version main */
+
 }
